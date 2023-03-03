@@ -1,0 +1,66 @@
+body{
+    background-color:cyan;
+}
+
+.bodyhtml{
+    background-color:bisque;
+    background-image: url(https://images.wakelet.com/resize?id=ea1819a9-f32e-461e-8f9e-19fa9d4fc50f&h=300&w=400&q=85);
+    background-repeat: no-repeat;
+    background-position: -2%;
+}
+
+h1{
+    text-align: center;
+    border-style: dashed;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 200%;
+}
+
+h2{
+    text-align: center;
+    font-size: 250%;
+}
+
+.html{
+    font-size: 130%;
+    background-color:blanchedalmond;
+    color:red;
+    display: block;
+}
+
+.flecha{
+    margin-left: -20%;
+    margin-top: -18%;
+}
+
+.tablehtml{
+    background-color: aqua;
+    border-style: dotted;
+    border-color:coral;
+}
+
+th{
+    color:brown;
+    font-size: 120%
+}
+
+td{
+    color: ;
+    font-size: 120%;
+}
+
+.h1html{
+    text-align: center;
+    border-style: dashed;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-size: 200%;
+}
+
+.buttonhtml{
+    background-color:azure;
+    color:darkgreen;
+    font-size: 150%;
+}
+
